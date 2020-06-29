@@ -65,9 +65,6 @@ const App = () => {
                         <Text>
                             ilker
                         </Text>
-                        <CalloutSubview >
-                            <Text>ilker</Text>
-                        </CalloutSubview>
                     </Callout>
                 </Marker>
             </MapView>

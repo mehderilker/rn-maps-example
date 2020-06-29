@@ -28,8 +28,8 @@ static void InitializeFlipper(UIApplication *application) {
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-  [GMSServices provideAPIKey:@"AIzaSyCECL2FAwH7o_NJRNxwMKk-bk-zRW2sf_w"];
-  
+  [GMSServices provideAPIKey:@"YOUR_API_KEY*****"];
+
 #if DEBUG
   InitializeFlipper(application);
 #endif
